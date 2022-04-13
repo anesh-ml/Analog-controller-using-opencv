@@ -1,5 +1,4 @@
 # Analog-controller-using-opencv
-
-
-https://user-images.githubusercontent.com/41319760/163188603-a25c2752-069a-454e-b353-94ffaa29addf.mp4
+## Output
+https://user-images.githubusercontent.com/41319760/163190862-ed3ecf58-1960-4f6e-9cea-e4af77ca5cd3.mp4
 
